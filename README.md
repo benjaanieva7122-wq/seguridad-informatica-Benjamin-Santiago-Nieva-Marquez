@@ -1,9 +1,6 @@
 # Seguridad Informática
 
-## Datos del estudiante
-- **Nombre y apellido:** [Completar]
-- **Curso:** [Completar]
-- **Materia:** [Completar]
+## Trabajo de: Benjamin Nieva
 
 ---
 
