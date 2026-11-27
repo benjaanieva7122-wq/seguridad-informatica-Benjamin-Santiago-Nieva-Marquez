@@ -134,10 +134,3 @@ La seguridad informática es responsabilidad de todos. Debemos aprender a cuidar
 
 ---
 
-# Conclusión general
-
-Realizar este trabajo nos permitió conocer los principales riesgos de seguridad informática y aprender cómo prevenirlos. Es importante estar informados, utilizar la tecnología responsablemente y proteger nuestros datos para navegar de forma segura.
-
----
-
-**Fin del trabajo práctico.**
